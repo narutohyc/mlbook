@@ -1,0 +1,9 @@
+{
+    "plugins": ["mathjax", "atoc"],
+    "pluginsConfig": {
+        "toc": {
+            "addClass": true,
+            "className": "atoc"
+        }
+    }
+}
