@@ -7,7 +7,7 @@
     "gitbook": "3.2.3",
     "root": ".",
     "structure": {
-        "readme": "introduction.md"
+        "readme": "README.md"
     },
     "links": {
         "sidebar": {
@@ -23,7 +23,6 @@
         "-highlight",
         "-livereload",
         "search-plus@^0.0.11",
-        "simple-page-toc@^0.1.1",
         "github@^2.0.0",
         "github-buttons@2.1.0",
         "edit-link@^2.0.2",
@@ -63,7 +62,7 @@
     ],
 
     "pluginsConfig": {
-	"toc": {
+	"atoc": {
             "addClass": true,
             "className": "atoc"
         },
@@ -132,10 +131,6 @@
             "button": "赏",
             "alipayText": "支付宝打赏",
             "wechatText": "微信打赏"
-        },
-        "simple-page-toc": {
-            "maxDepth": 3,
-            "skipFirstH1": true
         },
         "edit-link": {
             "base": "https://github.com/zhangjikai/gitbook-use/edit/master",
