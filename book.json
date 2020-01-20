@@ -1,5 +1,5 @@
 {
-    "plugins": ["mathjax", "atoc"],
+    "plugins": ["mathjax", "atoc","mermaid"],
     "pluginsConfig": {
         "toc": {
             "addClass": true,
