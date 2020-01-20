@@ -22,7 +22,7 @@
     "anchors",
 	"mathjax",
 	"atoc",
-	"mermaid",
+	"mermaid-gb3",
     "github",
     "github-buttons",
     "donate",
